@@ -49,6 +49,7 @@ h3{
     font-size: 25px;
     display: block;
     padding: 10px;
+    border-radius: 5px;
     cursor: pointer;
     margin: 5px 14px;
 }
